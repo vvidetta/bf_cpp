@@ -1,3 +1,4 @@
+// Copyright (c) 2023 Vito Videtta. All rights reserved.
 #include "Application.h"
 
 int main(int argc, char* argv[])
